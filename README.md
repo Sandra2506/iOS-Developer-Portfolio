@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://github.com/Sandra2506/iOS-Developer-Portfolio/assets/110335985/b3a74cc1-372e-4dd9-8a9d-38f4fc0e0cd9" width="400px"/>
 </p>
-# [Bookworm](https://github.com/Sandra2506/100Days-SwiftUI/tree/main/CupcakeCorner](https://github.com/Sandra2506/100Days-SwiftUI/tree/main/Bookworm) 
+# [Bookworm](https://github.com/Sandra2506/100Days-SwiftUI/tree/main/Bookworm) 
 Bookworm - приложение по внесению прочитаных книг и выставление им оценки. 
 <p align="center">
 <img width="356" alt="Снимок экрана 2023-12-25 в 17 14 40" src="https://github.com/Sandra2506/iOS-Developer-Portfolio/assets/110335985/c268e671-c3d2-444e-8506-32d33d4ce6ec">
